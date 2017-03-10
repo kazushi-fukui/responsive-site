@@ -50,18 +50,21 @@
 
 
 @media (max-width: 768px){
-  img
+  .profile
   {
   height:250px;
+  margin:0 auto;
   }
   .skillman{
     display:flex;
     flex-direction:column
   }
   .skill-box{
-     margin: 20px;
+     padding:0px;
+     margin-bottom: 20px;
+     margin-left:0px;
      width:100%;
-     display:block;
+     text-align:center;
   }
 }
 
