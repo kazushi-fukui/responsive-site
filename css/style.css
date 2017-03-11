@@ -29,9 +29,11 @@
 
 .contact {
   text-align: center;
-  background-color: #FF7F50; }
+  background-color: #FF7F50;
+  height: 150px; }
   .contact h2 {
-    font-size: 30px; }
+    font-size: 20px;
+    padding: 20px; }
   .contact p {
     background: red;
     border: 1px solid #DDD;
@@ -39,7 +41,7 @@
     -moz-border-radius: 4px;
     -webkit-border-radius: 4px;
     color: #111;
-    width: 100px;
+    width: 140px;
     padding: 10px 0;
     margin: 0 auto; }
 
